@@ -1,0 +1,6 @@
+[submodule "villages_is_villages"]
+	path = villages_is_villages
+	url = git@github.com:mattkimber/openttd_villages_is_villages.git
+[submodule "renewed_village_growth"]
+	path = renewed_village_growth
+	url = https://github.com/F1rrel/RenewedVillageGrowth.git
